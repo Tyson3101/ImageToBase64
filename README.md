@@ -2,6 +2,6 @@
 
 ### A simple tool to convert images to base64
 
-#### Here is the site: [https://tyson3101.github.io/ImageToBase64](https://tyson3101.github.io/ImageToBase64)
+#### Here is the site: [https://tyson3101.github.io/ImageToBase64/src/index.html](https://tyson3101.github.io/ImageToBase64/src/index.html)
 
 ###### By Tyson3101
