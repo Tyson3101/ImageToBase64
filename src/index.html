@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Image to Base64</title>
+    <script src="./script.js" defer></script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Image to Base 64</h1>
+      <p>Convert image to base64</p>
+    </header>
+    <section>
+      <div>
+        <h2>Select an Image</h2>
+        <img id="previewImg" />
+        <input type="url" id="url" placeholder="https://" />
+        <input type="file" id="file" accept="image/*" />
+        <div id="converted">
+          <textarea id="convertedData"></textarea>
+          <button id="copyBtn">Copy All</button>
+        </div>
+        <button id="convertBtn">Convert</button>
+      </div>
+    </section>
+  </body>
+</html>
