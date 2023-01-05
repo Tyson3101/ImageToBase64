@@ -4,6 +4,8 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "lib": ["ESNext", "dom"],
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "rootDir": "src",
+    "outDir": "public"
   }
 }

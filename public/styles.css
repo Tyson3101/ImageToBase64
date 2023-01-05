@@ -73,3 +73,7 @@ section div:first-child {
   font-size: 0.7em;
   color: #f5f5f5;
 }
+
+#loading {
+  display: none;
+}
